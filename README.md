@@ -5,3 +5,5 @@
 - [Day Four](https://github.com/ambushneupane/7daysofC/tree/main/7DaysCode/dayFour)  
 - [Day Five](https://github.com/ambushneupane/7daysofC/tree/main/7DaysCode/dayFive)  
 - [Day Six](https://github.com/ambushneupane/7daysofC/tree/main/7DaysCode/daySix)  
+- [Day Seven](https://github.com/ambushneupane/7daysofC/tree/main/7DaysCode/daySeven)  
+  
