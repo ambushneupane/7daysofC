@@ -1,9 +1,9 @@
 # 7daysofC
-Challenge To Code for 7 days --Completed  
+Challenge To Code for 7 days --COMPLETED 
 
-Added 3 days to it to make 10daysofC -- Completed  
+Added 3 days to make 10DaysOfC -- COMPLETED  
 
-Added 5 days in it to make it 15daysofC.  
+Added 5 days to make it 15DaysOfC -- Completed  
 
-   
+Added 5 days to make it 20DaysOfC  
 
